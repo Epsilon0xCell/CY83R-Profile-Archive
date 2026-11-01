@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Flat file cabinet scene">
+<rect width="1200" height="260" fill="#b9bbbc"/>
+<g fill="#a3a5a7" stroke="#2e2e30"><rect x="30" y="30" width="260" height="200"/><rect x="330" y="30" width="260" height="200"/><rect x="910" y="30" width="260" height="200"/></g>
+<g fill="#2e2e30"><rect x="130" y="66" width="60" height="12"/><rect x="430" y="66" width="60" height="12"/><rect x="1010" y="66" width="60" height="12"/></g>
+<rect x="1030" y="20" width="130" height="120" fill="#eef2f2" opacity=".8"/>
+<g fill="#fff"><circle cx="180" cy="60" r="2"><animate attributeName="cy" values="60;120;60" dur="9s" repeatCount="indefinite"/></circle><circle cx="700" cy="40" r="2"><animate attributeName="cy" values="40;110;40" dur="12s" repeatCount="indefinite"/></circle><circle cx="1080" cy="80" r="2"><animate attributeName="cy" values="80;150;80" dur="10s" repeatCount="indefinite"/></circle></g>
+<g><rect x="360" y="96" width="430" height="110" fill="#8f9193" stroke="#2e2e30"><animate attributeName="x" values="360;392;360" dur="8s" repeatCount="indefinite"/></rect>
+<g fill="#c4a46e" stroke="#2e2e30"><rect x="400" y="76" width="52" height="26"><animate attributeName="y" values="88;72;88" dur="5s" repeatCount="indefinite"/></rect><rect x="480" y="76" width="52" height="26"><animate attributeName="y" values="88;68;88" dur="6s" repeatCount="indefinite"/></rect><rect x="560" y="76" width="52" height="26"><animate attributeName="y" values="88;74;88" dur="7s" repeatCount="indefinite"/></rect></g>
+<rect x="380" y="112" width="390" height="80" fill="#eee8d6"/></g>
+<circle cx="760" cy="120" r="14" fill="#b08d3e" stroke="#2e2e30"><animate attributeName="cy" values="112;122;112" dur="4s" repeatCount="indefinite"/></circle>
+<g fill="#b62e24"><circle cx="420" cy="200" r="7"><animate attributeName="opacity" values="0;1;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="520" cy="200" r="7"><animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="620" cy="200" r="7"><animate attributeName="opacity" values="0;0;0;1" dur="6s" repeatCount="indefinite"/></circle></g>
+<path d="M0 238 Q600 218 1200 238" fill="none" stroke="#e6ddc8" stroke-width="10"/>
+<path d="M60 226 l18 10 l26 -22" fill="none" stroke="#b62e24" stroke-width="5"><animate attributeName="stroke-dasharray" values="0 80;80 0" dur="5s" repeatCount="indefinite"/></path>
+</svg>

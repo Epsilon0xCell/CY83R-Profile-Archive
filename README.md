@@ -1,3 +1,14 @@
+![CY83R-Profile-Archive introduction, wordless](intro-banner.png)
+
+
+
+![CY83R-Profile-Archive banner](banner.png)
+
+![CY83R-Profile-Archive animated scene](assets-scene.svg)
+
+
+> ARCHIVED AS HELD, NOTHING REWRITTEN
+
 
 ---
 
@@ -12,11 +23,21 @@
 
 ---
 
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+<p class="plate"><sub>CATALOGUE ENTRY 1 · FLAT FILE · date stamp ▪</sub></p>
+
 ### About Me
 
 My fascination with technology began not with formal coursework, but with a fundamental curiosity about how systems work. This passion, which I've pursued since the age of 12, led me to cybersecurity. I have now spent five years deeply immersed in systems engineering, offensive security tradecraft, and autonomous tool development. My focus is on building robust, security-first solutions and pushing the boundaries of what's possible at the intersection of AI and systems security. I am driven by taking on complex challenges and engineering effective, elegant solutions. I believe in mastering both sides of security: I build and I break. Operating with a purple-shaded methodology, I thrive on this duality.
 
 ---
+
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+<p class="plate"><sub>CATALOGUE ENTRY 2 · FLAT FILE · date stamp ▪</sub></p>
 
 ### Experience
 
@@ -26,6 +47,11 @@ My fascination with technology began not with formal coursework, but with a fund
 * Advising the co-founders on secure coding practices, infrastructure hardening, and risk management.
 
 ---
+
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+<p class="plate"><sub>CATALOGUE ENTRY 3 · FLAT FILE · date stamp ▪</sub></p>
 
 ### Key Achievements & Recognition
 
@@ -46,6 +72,11 @@ My fascination with technology began not with formal coursework, but with a fund
     * Selected for the competitive federal program, receiving mentorship from Bureau personnel.
 
 ---
+
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+<p class="plate"><sub>CATALOGUE ENTRY 4 · FLAT FILE · date stamp ▪</sub></p>
 
 ### Education & Certifications
 
@@ -151,6 +182,11 @@ The system is built on the principle of **offensive analysis** that is: proactiv
 * **[SillyTavern Extension](https://github.com/SillyTavern/Extension-Speech-Recognition/pull/19):** Deployed a "heartbeat" mechanism to fix a persistent bug in the Web Speech API implementation for a popular AI toolkit (16k+ stars).
 
 ---
+
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+<p class="plate"><sub>CATALOGUE ENTRY 5 · FLAT FILE · date stamp ▪</sub></p>
 
 ### Key Expertise
 
