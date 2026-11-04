@@ -1,25 +1,36 @@
+<p align="center"><img src="banner.png" alt="CY83R-Profile-Archive banner" width="100%"></p>
+
+<div align="center">
+
+<h1><img src="logo.png" alt="CY83R-Profile-Archive logo" width="48"> CY83R Profile Archive</h1>
+
+A preserved snapshot of the original CY83R GitHub profile, archived for reference.
+
+![Status](https://img.shields.io/badge/Status-Archived-lightgrey)
+![Profile](https://img.shields.io/badge/Profile-CY83R-blue)
+
+[About Me](#about-me) • [Experience](#experience) • [Key Achievements & Recognition](#key-achievements--recognition) • [Education & Certifications](#education--certifications) • [Key Expertise](#key-expertise)
+
+</div>
+
+> [!WARNING]
+> This repository is an archive of the CY83R GitHub profile. It is preserved for reference only and is not actively maintained. Please do not open issues or pull requests here.
+
+**A Portrait Kept in the Archive**
+_Art nouveau, in muted gold and sage green on ink brown: an old profile held as a portrait in a museum drawer._
+
+---
+
 ![CY83R-Profile-Archive introduction, wordless](intro-banner.png)
 
 
 
 ![CY83R-Profile-Archive banner](banner.png)
 
-<p align="center"><img src="logo.png" alt="CY83R-Profile-Archive logo" width="200"></p>
-
 ![CY83R-Profile-Archive animated scene](assets-scene.svg)
 
-**A Portrait Kept in the Archive**
-_Art nouveau, in muted gold and sage green on ink brown: an old profile held as a portrait in a museum drawer._
 
 > ARCHIVED AS HELD, NOTHING REWRITTEN
-
-## Contents
-
-- [About Me](#about-me)
-- [Experience](#experience)
-- [Key Achievements & Recognition](#key-achievements--recognition)
-- [Education & Certifications](#education--certifications)
-- [Key Expertise](#key-expertise)
 
 
 ---
