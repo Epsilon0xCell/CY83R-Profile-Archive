@@ -4,10 +4,22 @@
 
 ![CY83R-Profile-Archive banner](banner.png)
 
+<p align="center"><img src="logo.png" alt="CY83R-Profile-Archive logo" width="200"></p>
+
 ![CY83R-Profile-Archive animated scene](assets-scene.svg)
 
+**A Portrait Kept in the Archive**
+_Art nouveau, in muted gold and sage green on ink brown: an old profile held as a portrait in a museum drawer._
 
 > ARCHIVED AS HELD, NOTHING REWRITTEN
+
+## Contents
+
+- [About Me](#about-me)
+- [Experience](#experience)
+- [Key Achievements & Recognition](#key-achievements--recognition)
+- [Education & Certifications](#education--certifications)
+- [Key Expertise](#key-expertise)
 
 
 ---

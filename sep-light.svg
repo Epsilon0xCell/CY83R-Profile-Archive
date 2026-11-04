@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40"><line x1="0" y1="20" x2="400" y2="20" stroke="#2e2e30" stroke-width="2"/><circle cx="200" cy="20" r="9" fill="#b08d3e" stroke="#2e2e30"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="10" viewBox="0 0 800 10">
+<rect width="800" height="10" fill="#3B2F2A"/>
+<rect x="0" y="4" width="800" height="2" fill="#C9A86A" opacity="0.65"/>
+<rect x="0" y="3" width="60" height="4" fill="#8A9B7E">
+<animate attributeName="x" values="-60;800" dur="5.5s" repeatCount="indefinite"/></rect>
+</svg>
